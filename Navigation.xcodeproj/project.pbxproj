@@ -11,6 +11,7 @@
 		B79562C12B062CB500016394 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79562C02B062CB500016394 /* ContentView.swift */; };
 		B79562C32B062CB800016394 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B79562C22B062CB800016394 /* Assets.xcassets */; };
 		B79562C62B062CB800016394 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B79562C52B062CB800016394 /* Preview Assets.xcassets */; };
+		B79562CD2B06431100016394 /* PathStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B79562CC2B06431100016394 /* PathStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B79562C02B062CB500016394 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B79562C22B062CB800016394 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B79562C52B062CB800016394 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B79562CC2B06431100016394 /* PathStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B79562BE2B062CB500016394 /* NavigationApp.swift */,
 				B79562C02B062CB500016394 /* ContentView.swift */,
+				B79562CC2B06431100016394 /* PathStore.swift */,
 				B79562C22B062CB800016394 /* Assets.xcassets */,
 				B79562C42B062CB800016394 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B79562CD2B06431100016394 /* PathStore.swift in Sources */,
 				B79562C12B062CB500016394 /* ContentView.swift in Sources */,
 				B79562BF2B062CB500016394 /* NavigationApp.swift in Sources */,
 			);
